@@ -11,7 +11,7 @@
 </div>
 <div align="center" >
     <a href="https://linkedin.com/in/darioponceg"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://www.42malaga.com/"><img alt="Static Badge" src="https://img.shields.io/badge/dponce--g-white?style=for-the-badge&logo=42&logoColor=black"></a>
+    <a href="https://profile-v3.intra.42.fr/users/dponce-g"><img alt="Static Badge" src="https://img.shields.io/badge/dponce--g-white?style=for-the-badge&logo=42&logoColor=black"></a>
 </div><br>
 
 # Who am I?
