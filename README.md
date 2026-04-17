@@ -2,14 +2,20 @@
     <img src=".github/profile-banner.svg" alt="Dario Ponce profile banner" />
 </h1>
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/darioponceg/">
-        <img src=".github/linkedin-card.svg" alt="LinkedIn card" />
-    </a>
-    <a href="https://profile-v3.intra.42.fr/users/dponce-g">
-        <img src=".github/forty-two-card.svg" alt="42 profile card" />
-    </a>
-</div>
+<table align="center" width="100%">
+    <tr>
+        <td align="left" width="50%">
+            <a href="https://www.linkedin.com/in/darioponceg/" target="_blank" rel="noopener noreferrer">
+                <img src=".github/linkedin-card.svg" alt="LinkedIn card" width="100%" />
+            </a>
+        </td>
+        <td align="right" width="50%">
+            <a href="https://profile-v3.intra.42.fr/users/dponce-g" target="_blank" rel="noopener noreferrer">
+                <img src=".github/forty-two-card.svg" alt="42 profile card" width="100%" />
+            </a>
+        </td>
+    </tr>
+</table>
 
 <div align="center">
 
@@ -57,7 +63,7 @@ If you want to reach me, use this email: [darioponceg@gmail.com](mailto:dariopon
 
 <h2 align="center"></h2>
 <p align="center">
-    <a href="https://www.linkedin.com/in/darioponceg/">
+    <a href="https://www.linkedin.com/in/darioponceg/" target="_blank" rel="noopener noreferrer">
         <img src=".github/linkedin_banner.png" alt="LinkedIn banner" />
     </a>
 </p>
