@@ -1,36 +1,63 @@
-<!-- Personal profile banner-->
 <h1 align="center">
-    <img src=".github/banner1.png" alt="Profile banner"/>
+    <img src=".github/profile-banner.svg" alt="Dario Ponce profile banner" />
 </h1>
 
-<!-- Typing svg presentation-->
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&duration=4000&pause=1000&color=AD75E2&center=true&vCenter=true&random=false&width=435&lines=Hey+there!+I'm+Dario;Welcome+to+my+github!" alt="Typing SVG" />
+    <a href="https://www.linkedin.com/in/darioponceg/">
+        <img src=".github/linkedin-card.svg" alt="LinkedIn card" />
+    </a>
+    <a href="https://profile-v3.intra.42.fr/users/dponce-g">
+        <img src=".github/forty-two-card.svg" alt="42 profile card" />
     </a>
 </div>
-<div align="center" >
-    <a href="https://linkedin.com/in/darioponceg"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://profile-v3.intra.42.fr/users/dponce-g"><img alt="Static Badge" src="https://img.shields.io/badge/dponce--g-white?style=for-the-badge&logo=42&logoColor=black"></a>
-</div><br>
 
-# Who am I?
-I'm a student at [42 Malaga](https://www.fundaciontelefonica.com/empleabilidad/campus-42/)
+<div align="center">
 
-| Projects  |       Date        |
-|-----------|-------------------|
-| Piscine C | Oct-24 to Nov-24  |
-| Cursus    | Dec-24 to Present |
+### Fintech mindset. Data-driven shift. Engineering discipline.
 
-- 👋 Hi, I’m @darioponceg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I am an analyst by background, reskilling into a hybrid technical profile focused on data and AI. My path combines business understanding with hands-on software skills, with the goal of building systems that are useful, reliable, and measurable.
 
-<!---
-darioponceg/darioponceg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
+
+## About Me
+
+I started in finance, where I developed a strong sense for business context, structure, and decision-making. I am now moving toward data, automation, and AI through the 42 ecosystem and independent technical projects.
+
+My focus is practical: understanding problems deeply, translating them into clear technical solutions, and shipping work that can be tested and improved.
+
+## Skills
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/Power_BI-111827?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
+    <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</div>
+
+## Selected Work
+
+- Real-time anomaly detection for renewable energy production.
+- Minishell developed within the 42 curriculum.
+
+## 42 Journey
+
+| Stage | Date |
+| --- | --- |
+| Piscine C | Oct 2024 to Nov 2024 |
+| Cursus | Dec 2024 to Present |
+
+## Contact
+
+If you want to reach me, use this email: [darioponceg@gmail.com](mailto:darioponceg@gmail.com)
+
+> Business context first, technical execution second, measurable value always.
+
+<h2 align="center"></h2>
+<p align="center">
+    <a href="https://www.linkedin.com/in/darioponceg/">
+        <img src=".github/linkedin_banner.png" alt="LinkedIn banner" />
+    </a>
+</p>
