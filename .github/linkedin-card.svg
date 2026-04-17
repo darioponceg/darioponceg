@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="180" viewBox="0 0 520 180" role="img" aria-labelledby="title desc">
+  <title id="title">LinkedIn card</title>
+  <desc id="desc">Clickable LinkedIn profile card in a dark minimalist style.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#60a5fa" />
+    </linearGradient>
+  </defs>
+  <rect width="520" height="180" rx="22" fill="url(#bg)" stroke="#1f2937" />
+  <rect x="24" y="24" width="472" height="132" rx="18" fill="none" stroke="#334155" stroke-dasharray="5 6" opacity="0.7" />
+  <circle cx="76" cy="90" r="28" fill="#0a66c2" />
+  <text x="76" y="101" text-anchor="middle" fill="#ffffff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">in</text>
+  <text x="126" y="78" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">LinkedIn</text>
+  <text x="126" y="110" fill="#cbd5e1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Professional background and network</text>
+  <rect x="126" y="122" width="170" height="34" rx="17" fill="url(#accent)" />
+  <text x="211" y="145" text-anchor="middle" fill="#ffffff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Open profile</text>
+  <text x="434" y="145" text-anchor="middle" fill="#64748b" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">darioponceg</text>
+</svg>
